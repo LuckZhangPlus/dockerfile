@@ -3,7 +3,7 @@
 class Dome():
 
     def domes(self):
-        print('Hello World!')
+        print('Hello World zyun!')
 
 
 if __name__ == "__main__":
